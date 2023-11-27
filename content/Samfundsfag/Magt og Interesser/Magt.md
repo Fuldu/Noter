@@ -41,4 +41,6 @@ Definitionsmagt
 Grøn energi, grøn associere vi med godt 
 
 Strukturel magt 
-jeg kørte ikke over for rød på vej til skole selvom jeg sagtens kunne
+Jeg stak ikke en person på gaden fordi det er moralsk samt strukturelt forkert 
+
+![[Pasted image 20231127093641.png]]

@@ -13,10 +13,11 @@ Der er 4 typer af magt
 ---
 * **Magt, relation mellem mennesker og grupper**
   
-  Direkte magt eks. din lærer siger du bør lave lektier og du gør grundet hendes magt i form af karaktere 
-  belønning eller straf
+  Direkte magt Hieraki, eks. din lærer siger du bør lave lektier og du gør grundet hendes magt i form af karaktere 
+  belønning eller straf 
   
   Indirekte magt du bliver ikke bedt om det men du forventer at hvis du gør noget vil du få tilbage eks. Politiker stemmer for et forslag for at få stemmer.
+  usynlig magt
 ----
 * **Definitionsmagt**
   
@@ -27,4 +28,17 @@ Der er 4 typer af magt
   Lov, regler og normer, styrer vores adfærd gennem strukturel magt 
 ---
 Spørgsmål om indirekte magt 
-eks. hvis man ændre på sin udseegene for at blive behandlet bedre udøver man så selv indirekte magt eller udøver dem der vil behandle dig bedre indirekte magt 
+eks. hvis man ændre på sin udseende for at blive behandlet bedre udøver man så selv indirekte magt eller udøver dem der vil behandle dig bedre indirekte magt 
+
+
+Magt som ressource:
+Fagforeninger kan forhandle med deres ressource deres støtters stemmer 
+
+Magt som relation:
+forældre kan forvente eks. at opvaskeren bliver tømmet 
+
+Definitionsmagt 
+Grøn energi, grøn associere vi med godt 
+
+Strukturel magt 
+jeg kørte ikke over for rød på vej til skole selvom jeg sagtens kunne

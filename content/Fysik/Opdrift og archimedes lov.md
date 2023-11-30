@@ -12,7 +12,7 @@ F-t < F-op Flyder op
 F-t = Fop Ligestore så er lige påvirket 
 
 Synker en klods i honning som vejer 300 kg og fylder 69 cm^3
-Tyngdekraften F-t = m*g = 300kg * 9,82 m^2
+Tyngdekraften F-t = m*g = 300kg • 9,82 m^2
 
 2946 Newton
 Opdrift F-op = rho-honning * V * g

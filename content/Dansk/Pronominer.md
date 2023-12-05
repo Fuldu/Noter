@@ -1,0 +1,1 @@
+Pronominer erstatter Personer, ting eller en sætning 

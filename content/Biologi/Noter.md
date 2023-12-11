@@ -7,4 +7,4 @@ Triglycerid er på dette diagram mættet fedt ellers ville der skulle være dobb
 
 energiindhold fedt 38 KJ/gram
 energiindhold kulhydrater/proteiner 17 KJ/gram
-
+Denaturering er når man permanent forandre stoffet eks et æg inden og efter kogning 
